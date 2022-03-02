@@ -1,0 +1,12 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Carpeta de inicio[path]/home/lupin"
+"Escritorio[path]/home/lupin/Desktop"
+"Colecciones[path]/home/lupin/.local/share/geeqie/collections"
+
+[path_list]
+"/home/lupin"
+
+#end

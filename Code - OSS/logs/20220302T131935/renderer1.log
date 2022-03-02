@@ -1,0 +1,10 @@
+[2022-03-02 13:19:36.966] [renderer1] [info] IExtensionHostStarter.start() took 20 ms.
+[2022-03-02 13:19:37.994] [renderer1] [error] [Extension Host] (node:4763) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-03-02 13:27:29.249] [renderer1] [error] Cannot read property 'toLowerCase' of undefined: TypeError: Cannot read property 'toLowerCase' of undefined
+    at i.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:102227)
+    at c.getLanguageIdByLanguageName (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:103973)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1157:1193
+[2022-03-02 13:27:36.752] [renderer1] [info] IExtensionHostStarter.start() took 10 ms.
+[2022-03-02 13:27:37.821] [renderer1] [error] [Extension Host] (node:5638) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

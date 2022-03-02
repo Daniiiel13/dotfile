@@ -1,0 +1,37 @@
+colors:
+  bright:
+    black: '0x282a40'
+    blue: '0xa3c5ff'
+    cyan: '0x98fffd'
+    green: '0xe0ffad'
+    magenta: '0xd6afed'
+    red: '0xeb7f84'
+    white: '0xd1e5ed'
+    yellow: '0xffee7e'
+  normal:
+    black: '0x181a29'
+    blue: '#037efa'
+    cyan: '#01c8f9'
+    green: '#0ddb14'
+    cyan: '#01c8f9'
+    magenta: '#c401f9'
+    red: '#f21410'
+    white: '0xbfd5de'
+    yellow: '0xffd47e'
+  primary:
+    background: '#0e0e0e'
+    foreground: '#85929e'
+font:
+  bold:
+    family: UbuntuMono Nerd Font
+  italic:
+    family: UbuntuMono Nerd Font
+  normal:
+    family: UbuntuMono Nerd Font
+    style: Regular
+  size: 11.0
+window:
+  opacity: 0.80
+  padding:
+    x: 3
+    y: 3

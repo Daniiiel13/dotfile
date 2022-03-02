@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=code-oss.desktop;vim.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-KGQ7H1.desktop;
+
+[Default Applications]
+x-scheme-handler/tg=userapp-Telegram Desktop-KGQ7H1.desktop

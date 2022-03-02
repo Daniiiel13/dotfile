@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "file-open" 3)
+(history-item "file-export-as" 0)
+(history-item "file-quit" 1)
+(history-item "windows-tab-position" 0)
+(history-item "tools-zoom" 1)
+(history-item "file-save-as" 1)
+
+# end of action-history

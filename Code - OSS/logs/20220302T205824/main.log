@@ -1,0 +1,18 @@
+[2022-03-02 20:58:24.671] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-03-02 20:58:24.690] [main] [info] ExtensionHostStarterWorker created
+[2022-03-02 20:58:25.880] [main] [info] Starting extension host with pid 15016 (fork() took 6 ms).
+[2022-03-02 20:58:25.880] [main] [info] ExtensionHostStarterWorker.start() took 7 ms.
+[2022-03-02 21:02:18.522] [main] [info] Starting extension host with pid 15871 (fork() took 3 ms).
+[2022-03-02 21:02:18.522] [main] [info] ExtensionHostStarterWorker.start() took 4 ms.
+[2022-03-02 21:04:16.260] [main] [info] Extension host with pid 15871 exited with code: 0, signal: null.
+[2022-03-02 21:04:20.747] [main] [info] Starting extension host with pid 16221 (fork() took 4 ms).
+[2022-03-02 21:04:20.748] [main] [info] ExtensionHostStarterWorker.start() took 5 ms.
+[2022-03-02 21:04:51.194] [main] [info] Extension host with pid 16221 exited with code: 0, signal: null.
+[2022-03-02 21:04:55.489] [main] [info] Starting extension host with pid 16466 (fork() took 3 ms).
+[2022-03-02 21:04:55.489] [main] [info] ExtensionHostStarterWorker.start() took 4 ms.
+[2022-03-02 21:06:27.199] [main] [info] Extension host with pid 16466 exited with code: 0, signal: null.
+[2022-03-02 21:06:31.275] [main] [info] Starting extension host with pid 16866 (fork() took 3 ms).
+[2022-03-02 21:06:31.275] [main] [info] ExtensionHostStarterWorker.start() took 5 ms.
+[2022-03-02 21:06:37.971] [main] [info] Starting extension host with pid 16979 (fork() took 4 ms).
+[2022-03-02 21:06:37.971] [main] [info] ExtensionHostStarterWorker.start() took 15 ms.
+[2022-03-02 21:06:40.029] [main] [info] Extension host with pid 16979 exited with code: 0, signal: null.

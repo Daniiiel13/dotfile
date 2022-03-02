@@ -1,0 +1,10 @@
+[2022-03-02 16:24:24.910] [exthost] [info] Extension host with pid 5445 started
+[2022-03-02 16:24:24.910] [exthost] [info] Skipping acquiring lock for /home/lupin/.config/Code - OSS/User/workspaceStorage/ae9156186de23e8e341e003f37077c33.
+[2022-03-02 16:24:24.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-02 16:24:24.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-02 16:24:24.997] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-02 16:24:25.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-02 16:24:25.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-02 16:24:25.110] [exthost] [info] Eager extensions activated
+[2022-03-02 16:24:25.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-02 16:24:25.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
