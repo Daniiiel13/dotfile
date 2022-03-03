@@ -1,6 +1,0 @@
-[2022-03-02 19:08:44.084] [renderer1] [info] IExtensionHostStarter.start() took 176 ms.
-[2022-03-02 19:08:44.318] [renderer1] [error] [Extension Host] (node:2090) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `electron --trace-deprecation ...` to show where the warning was created)
-[2022-03-02 19:09:28.872] [renderer1] [error] [text file model] handleSaveError(27) - exit - resulted in a save error: Error: No se puede escribir el archivo "/etc/lightdm/lightdm.conf" (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/lightdm/lightdm.conf') file:///etc/lightdm/lightdm.conf
-[2022-03-02 19:09:35.089] [renderer1] [error] [text file model] handleSaveError(27) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/lightdm/lightdm.conf
-[2022-03-02 19:09:41.546] [renderer1] [error] [text file model] handleSaveError(27) - exit - resulted in a save error: Error: No se puede escribir el archivo "/etc/lightdm/lightdm.conf" (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/lightdm/lightdm.conf') file:///etc/lightdm/lightdm.conf

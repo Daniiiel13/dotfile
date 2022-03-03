@@ -1,6 +1,0 @@
-[2022-03-02 19:08:42.694] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-03-02 19:08:42.735] [main] [info] ExtensionHostStarterWorker created
-[2022-03-02 19:08:43.894] [main] [info] Starting extension host with pid 2090 (fork() took 7 ms).
-[2022-03-02 19:08:43.894] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
-[2022-03-02 19:09:45.247] [main] [info] Extension host with pid 2090 exited with code: 0, signal: null.
-[2022-03-02 19:09:45.247] [main] [info] Waiting for extension host with pid 2090 to exit.

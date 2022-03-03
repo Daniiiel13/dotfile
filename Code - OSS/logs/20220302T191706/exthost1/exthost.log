@@ -1,9 +1,0 @@
-[2022-03-02 19:17:07.995] [exthost] [info] Extension host with pid 3762 started
-[2022-03-02 19:17:08.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
-[2022-03-02 19:17:08.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
-[2022-03-02 19:17:08.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-[2022-03-02 19:17:08.106] [exthost] [info] Eager extensions activated
-[2022-03-02 19:17:08.112] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
-[2022-03-02 19:17:08.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-[2022-03-02 19:17:12.227] [exthost] [info] extension host terminating: renderer closed the socket
-[2022-03-02 19:17:12.229] [exthost] [info] Extension host with pid 3762 exiting with code 0
