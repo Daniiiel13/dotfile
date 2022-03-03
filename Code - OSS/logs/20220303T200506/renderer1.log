@@ -1,0 +1,4 @@
+[2022-03-03 20:05:07.531] [renderer1] [info] IExtensionHostStarter.start() took 43 ms.
+[2022-03-03 20:05:07.913] [renderer1] [error] [Extension Host] (node:2109) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-03-03 20:11:48.567] [renderer1] [error] [lifecycle]: Error during will-shutdown phase (error: ENOENT: no such file or directory, unlink '/home/lupin/.config/Code - OSS/User/workspaceStorage/c2fb18ccfee798deb2c30db5414c8fb0/state.vscdb')
