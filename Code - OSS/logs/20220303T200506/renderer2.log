@@ -1,6 +1,0 @@
-[2022-03-03 20:05:07.588] [renderer2] [info] IExtensionHostStarter.start() took 28 ms.
-[2022-03-03 20:05:07.893] [renderer2] [error] [Extension Host] (node:2118) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `electron --trace-deprecation ...` to show where the warning was created)
-[2022-03-03 20:10:28.091] [renderer2] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: No se puede escribir el archivo "vscode-userdata:/home/lupin/.config/Code - OSS/User/settings.json" (Error: Archivo Modificado Desde) vscode-userdata:/home/lupin/.config/Code - OSS/User/settings.json
-[2022-03-03 20:11:17.316] [renderer2] [error] [Extension Host] Error: ENOENT: no such file or directory, open '/home/lupin/.config/Code - OSS/clp/1e2497b77e88af51f7999fd365e10cdd.es/corrupted.info'
-[2022-03-03 20:11:47.517] [renderer2] [error] [lifecycle]: Error during will-shutdown phase (error: ENOENT: no such file or directory, unlink '/home/lupin/.config/Code - OSS/User/workspaceStorage/caefe6c2c78d27e845c45b82b5768f34/state.vscdb')
