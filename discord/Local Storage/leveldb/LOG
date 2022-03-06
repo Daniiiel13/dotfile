@@ -1,5 +1,0 @@
-2022/03/03-20:16:27.651 55b Creating DB /home/lupin/.config/discord/Local Storage/leveldb since it was missing.
-2022/03/03-20:16:27.654 55b Reusing MANIFEST /home/lupin/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/03/03-20:16:27.654 55b Recovering log #10
-2022/03/03-20:16:27.655 55b Reusing old log /home/lupin/.config/discord/Local Storage/leveldb/000010.log 
-2022/03/03-20:16:27.655 55b Delete type=2 #11
